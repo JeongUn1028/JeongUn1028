@@ -30,13 +30,13 @@
 <br />
 <div align="center">
   <div>
-    <img src="https://img.shields.io/badge/Instagram: -black?style=for-the-badge&logo=Instagram"/>
+    <img src="https://img.shields.io/badge/MySite: -black?style=for-the-badge&logo=About.me"/>
   </div>
   <div>
     <img src="https://img.shields.io/badge/Velog: -black?style=for-the-badge&logo=Velog"/>
   </div>
   <div>
-    <img src="https://img.shields.io/badge/MySite: -black?style=for-the-badge&logo=About.me"/>
+    <img src="https://img.shields.io/badge/Instagram: -black?style=for-the-badge&logo=Instagram"/>
   </div>
 </div>
 <br />
