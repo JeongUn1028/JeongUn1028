@@ -1,5 +1,4 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&height=120&section=header&text=JeongUn%&fontSize=70&fontAlignY=30&desc=FrontendDeveloper%20&descAlignY=70&descAlign=80" />
-<div align="center">Thx To Vewing My Profile</div>
 <br />
 <div align="center">👨‍💻 Work At</div>
 <br />
@@ -33,10 +32,10 @@
     <img src="https://img.shields.io/badge/MySite: -black?style=for-the-badge&logo=About.me"/>
   </div>
   <div>
-    <img src="https://img.shields.io/badge/Velog: -black?style=for-the-badge&logo=Velog"/>
+    <img src="https://img.shields.io/badge/Velog: https://velog.io/@wjddns363-black?style=for-the-badge&logo=Velog"/>
   </div>
   <div>
-    <img src="https://img.shields.io/badge/Instagram: -black?style=for-the-badge&logo=Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram: J2ong_Un -black?style=for-the-badge&logo=Instagram"/>
   </div>
 </div>
 <br />
@@ -47,6 +46,9 @@
   <br />
   	<img src="https://github-readme-stats.vercel.app/api?username=JeongUn1028&show_icons=true">
 </div>
+<br />
+<br />
+<div align="center">Thx To Vewing My Profile</div>
 <!--
 **JeongUn1028/JeongUn1028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
