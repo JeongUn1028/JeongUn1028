@@ -2,7 +2,7 @@
 <br />
 <div align="center">👨‍💻 Work At</div>
 <br />
-<div align="center">🏢 Dataly (2023.05 ~ ing)</div>
+<div align="center">🏢 Dataly (2023.05 ~ 2024.08.31)</div>
 <br />
 <br />
 <div align="center">📚 Tech Stack</div>
