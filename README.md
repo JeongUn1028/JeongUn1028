@@ -32,10 +32,7 @@
     <img src="https://img.shields.io/badge/MySite: -black?style=for-the-badge&logo=About.me"/>
   </div>
   <div>
-    <img src="https://img.shields.io/badge/Velog: https://velog.io/@wjddns363-black?style=for-the-badge&logo=Velog"/>
-  </div>
-  <div>
-    <img src="https://img.shields.io/badge/Instagram: J2ong_Un -black?style=for-the-badge&logo=Instagram"/>
+    <a href="https://velog.io/@jeongun1028/posts"><img src="https://img.shields.io/badge/Velog: https://velog.io/@Jeongun1028-black?style=for-the-badge&logo=Velog"/></a>
   </div>
 </div>
 <br />
