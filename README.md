@@ -39,12 +39,12 @@
 </div>
 <br />
 <br />
-<div align="center">
+<!-- <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeongUn1028&layout=compact">
   <br />
   <br />
   	<img src="https://github-readme-stats.vercel.app/api?username=JeongUn1028&show_icons=true">
-</div>
+</div> -->
 <br />
 <br />
 <div align="center">Thx To Vewing My Profile</div>
