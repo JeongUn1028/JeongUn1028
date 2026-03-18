@@ -29,7 +29,9 @@
 <br />
 <div align="center">
   <div>
-    <img src="https://img.shields.io/badge/MySite: -black?style=for-the-badge&logo=About.me"/>
+    <a href="https://leejeongun.com" target="_blank">
+      <img src="https://img.shields.io/badge/MySite: -black?style=for-the-badge&logo=About.me"/>
+    </a>
   </div>
   <div>
     <a href="https://velog.io/@jeongun1028/posts" target="_blank">
