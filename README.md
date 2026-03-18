@@ -30,7 +30,7 @@
 <div align="center">
   <div>
     <a href="https://leejeongun.com" target="_blank">
-      <img src="https://img.shields.io/badge/MySite: https://leejeongun.com-black??style=for-the-badge&logo=About.me"/>
+      <img src="https://img.shields.io/badge/MySite: https://leejeongun.com-black?style=for-the-badge&logo=About.me"/>
     </a>
   </div>
   <div>
