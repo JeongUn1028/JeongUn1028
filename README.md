@@ -47,9 +47,6 @@
   <br />
   	<img src="https://github-readme-stats.vercel.app/api?username=JeongUn1028&show_icons=true">
 </div> -->
-<br />
-<br />
-<div align="center">Thx To Vewing My Profile</div>
 <!--
 **JeongUn1028/JeongUn1028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
