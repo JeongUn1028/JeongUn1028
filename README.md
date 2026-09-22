@@ -16,6 +16,11 @@
 
 ## 🏢 Work Experience
 
+- **헤디** | 프론트엔드 개발자 (2026.09 ~ 재직중)
+  - 레이더 기반 로봇을 제작하는 회사의 로봇 매니지먼트 웹 서비스 프론트엔드 개발
+
+- **부산대학교** | 개발자 인턴 (2026.01 ~ 2026.02) · 2개월
+
 - **데이터리** | 개발팀 대리 / 프론트엔드 개발자 (2023.05 ~ 2024.08) · 1년 4개월
   - 국립국어원 수주 사업의 웹 서비스 개발, 배포 및 운영
   - 오픈소스 데이터 라벨링 도구(Doccano)를 사업 요구사항에 맞게 구조 분석 및 커스터마이징 (Vue.js + TypeScript 적용)
@@ -60,7 +65,7 @@
 `2026.06 ~ 2026.08`
 
 - **CSR 한계 극복을 위한 Next.js App Router 풀스택 아키텍처 전환** (Prisma 6 + PostgreSQL / Supabase DB)
-- **사용자 경험(UX) 최적화**: `Intercepting & Parallel Routes`를 이용한 모달 UX 구축 및 URL 공유/새로고침 시 독립 페이지 제공 딥링크 지원, Suspense 기반 스케톤 UI 적용
+- **사용자 경험(UX) 최적화**: `Intercepting & Parallel Routes`를 이용한 모달 UX 구축 및 URL 공유/새로고침 시 독립 페이지 제공 딥링크 지원, Suspense 기반 스켈레톤 UI 적용
 - **서버리스 DB 커넥션 병목 문제 해결**: Prisma P2024 타임아웃 방지를 위한 병렬 DB 쿼리 순차 실행 리팩토링 및 Supabase Transaction Pooler 적용
 - **데이터 파이프라인 자동화**: TMDB/YouTube API 통합 및 Vercel Cron 기반 Route Handler를 구축하여 국내 OTT 라이선스 데이터 매일 자동 동기화
 - **품질 지표 개선**: Lighthouse 검사 기준 성능 100점(+9), 접근성 98점(+12), 동적 Metadata/OpenGraph 적용으로 SEO 100점(+8) 달성
